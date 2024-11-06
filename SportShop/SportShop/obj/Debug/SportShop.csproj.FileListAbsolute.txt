@@ -17,3 +17,11 @@ C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\obj\Debug\SportShop.csproj.G
 C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
 C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\obj\Debug\SportShop.exe
 C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\obj\Debug\SportShop.pdb
+C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\bin\Debug\EntityFramework.dll
+C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\bin\Debug\EntityFramework.xml
+C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\obj\Debug\SportShop_Content.g.cs
+C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\obj\Debug\App.baml
+C:\Users\comcuru\Desktop\XtEnd0\SportShop\SportShop\obj\Debug\SportShop.csproj.CopyComplete

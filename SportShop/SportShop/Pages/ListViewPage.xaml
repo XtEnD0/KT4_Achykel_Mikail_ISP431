@@ -5,10 +5,43 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:SportShop.Pages"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
-      Title="ListViewPage">
+      d:DesignHeight="650" d:DesignWidth="1000"
+      Title="Прокат спротивного инвентаря">
 
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ListView Grid.Row="0" x:Name="MainList">
+            
+            <Grid Height="120" Width="1000">
+
+                <StackPanel VerticalAlignment="Center"
+                            HorizontalAlignment="Left" Margin="10,0,0,0">
+
+                    <Label Content="name"></Label>
+                    <Label Content="Email"></Label>
+                    <Label Content="Birthdate"></Label>
+                    <Label Content="Phone"></Label>
+
+                </StackPanel>
+                <Label Content="Role" VerticalAlignment="Center"
+                       HorizontalAlignment="Left" Margin="170,0,0,0"></Label>
+                
+                <Button x:Name="EditButton" Content="Редактировать"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Center" Margin="0,0,50,0"
+                    ></Button>
+                
+            </Grid>
+            
+
+
+        </ListView>
+        
+        
         
     </Grid>
 </Page>

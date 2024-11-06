@@ -23,6 +23,7 @@ namespace SportShop.Pages
         public ListViewPage()
         {
             InitializeComponent();
+            //MainList.ItemsSource = Data.SportsEntities.GetContext().Users.ToList();
         }
     }
 }
